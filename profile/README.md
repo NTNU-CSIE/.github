@@ -4,8 +4,8 @@ National Taiwan Normal University, Department of Computer Science & Information 
 
 [![Temporary Banner (i.e. placeholder)](https://i.imgur.com/NjA0O1Y.png)](https://github.com/NTNU-CSIE)
 
-![code-square](https://cdn.jsdelivr.net/gh/primer/octicons@16.1.1/icons/code-square-24.svg)
-![browser](https://cdn.jsdelivr.net/gh/primer/octicons@16.1.1/icons/browser-24.svg)
-![database](https://cdn.jsdelivr.net/gh/primer/octicons@16.1.1/icons/database-24.svg)
-![bug](https://cdn.jsdelivr.net/gh/primer/octicons@16.1.1/icons/bug-24.svg)
-![heart](https://cdn.jsdelivr.net/gh/primer/octicons@16.1.1/icons/heart-24.svg)
+![code-square](https://cdn.jsdelivr.net/npm/nocticons@latest/lib/code-square-24.svg)
+![browser](https://cdn.jsdelivr.net/npm/nocticons@latest/lib/browser-24.svg)
+![database](https://cdn.jsdelivr.net/npm/nocticons@latest/lib/database-24.svg)
+![bug](https://cdn.jsdelivr.net/npm/nocticons@latest/lib/bug-24.svg)
+![heart](https://cdn.jsdelivr.net/npm/nocticons@latest/lib/heart-24.svg)
